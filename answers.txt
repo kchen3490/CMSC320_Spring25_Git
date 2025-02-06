@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Because version control is awesome and let's us share versions 
+without losing all progress.
