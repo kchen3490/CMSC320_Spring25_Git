@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could help me in the field of heliophysics, which is the
+study of physics between the sun and the planets in the solar system
+because the data science can help display spectrograms to understand
+the loss particles from the sun precipitating into a planet's atmosphere.
