@@ -9,3 +9,15 @@ Answer: Data science could help me in the field of heliophysics, which is the
 study of physics between the sun and the planets in the solar system
 because the data science can help display spectrograms to understand
 the loss particles from the sun precipitating into a planet's atmosphere.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is non-destructive meaning it doesn't alter the history of the
+branch. Rebasing, on the other hand, does indeed cause destruction and
+rewrites the history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm really looking forward to learning more about data science!
+My mom knows how to use SQL, so I'm excited to discuss more about it with
+her after learning it in this course!
